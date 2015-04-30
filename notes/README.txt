@@ -15,7 +15,11 @@ How to install and run
 
 1) Get the project: 
 
-git clone https://github.com/RockChalkJay/LevelsBeyond-NotesAPI.git
+git clone https://github.com/RockChalkJay/LevelsBeyond.git
+
+3) Change to install dir
+
+cd ./LevelsBeyond/notes
 
 2) Build the notes jar file with Maven: 
 
